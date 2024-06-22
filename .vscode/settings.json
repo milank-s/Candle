@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "CandleGame.sln"
+    "dotnet.defaultSolution": "Candle.sln"
 }
