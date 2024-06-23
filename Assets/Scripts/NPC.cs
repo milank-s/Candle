@@ -4,8 +4,7 @@ using UnityEngine;
 
 public class NPC : MonoBehaviour
 {
-    [SerializeField] Candle candle;
-
+    
     [Header("FX")]
     [SerializeField] GameObject lightOnState;
     [SerializeField] GameObject loseState;
